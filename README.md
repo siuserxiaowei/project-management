@@ -1,5 +1,18 @@
 # 项目管理系统
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：项目管理实践仓库，整理任务拆解、进度跟踪、协作流程和 AI 辅助项目推进方法。
+
+**English**: A project-management practice repo for task breakdown, progress tracking, collaboration workflows, and AI-assisted delivery.
+
+**SEO 关键词 / SEO Keywords**: project management, AI workflow, task tracking, collaboration, 项目管理
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 一个简单易用的项目管理系统，专为流量接单和中台分销业务设计。
 
 ## 功能特点
@@ -96,3 +109,17 @@ npm run dev
 ## 技术支持
 
 如需添加新功能或修改现有功能，请参考代码注释或联系开发者。
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: project management, AI workflow, task tracking, collaboration, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
